@@ -1,0 +1,1 @@
+# wastewise-ai-food-waste-predictor
